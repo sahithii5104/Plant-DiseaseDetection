@@ -79,6 +79,9 @@ Copy
 Edit
 
 ---
+## 📌SCREENSHOTS
+![image](https://github.com/user-attachments/assets/dfd5cf51-7dd3-409b-9629-66a77ee2d32d)
+
 
 ## 📈 Results
 
