@@ -80,6 +80,26 @@ Edit
 
 ---
 
+## 📈 Results
+
+Crop	Accuracy	Precision	Recall	F1-Score
+Tomato	98.2%	98%	97.8%	98%
+Potato	97.4%	97%	96.5%	96.7%
+Apple	96.9%	96.2%	96.7%	96.4%
+
+
+
+
+## ⚠️ Limitations
+
+Performance may vary under different lighting or background conditions.
+
+Only detects diseases present in the training dataset.
+
+Real-world deployment may need retraining with local/regional crop images.
+
+
+
 ## ⚙️ Installation
 
 Clone the repository and install dependencies:
@@ -105,21 +125,4 @@ cd app
 python app.py
 Then open your browser to localhost:8501 or 127.0.0.1:5000.
 
-📈 Results
-
-Crop	Accuracy	Precision	Recall	F1-Score
-Tomato	98.2%	98%	97.8%	98%
-Potato	97.4%	97%	96.5%	96.7%
-Apple	96.9%	96.2%	96.7%	96.4%
-
-
-
-
-⚠️ Limitations
-Performance may vary under different lighting or background conditions.
-
-Only detects diseases present in the training dataset.
-
-Real-world deployment may need retraining with local/regional crop images.
-
-👩‍💻 Author
+---
